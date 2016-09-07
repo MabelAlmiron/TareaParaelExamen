@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ultima_Prueba</string>
+    <string name="escribaNombre">Escreba seu nome</string>
+    <string name="escribaTelefono">Escreba seu telefone</string>
+    <string name="escribaEdad">Escreba sua edad</string>
+    <string name="butnGuardar">Salvar</string>
+    <string name="error_nombre">Escreba seu nome</string>
+    <string name="error_telefono">Escreba seo numero de phone</string>
+    <string name="error_edad">Escreba seu edad</string>
+    <string name="bienvenida">Bemvindo</string>
+</resources>

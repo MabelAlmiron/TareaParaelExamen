@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ultima_Prueba</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="escribaNombre">Escriba su nombre</string>
+    <string name="escribaTelefono">Escriba su numero de telefono</string>
+    <string name="escribaEdad">Escriba su edad</string>
+    <string name="butnGuardar">Guardar</string>
+    <string name="error_nombre">El campo nombre esta vacio</string>
+    <string name="error_telefono">Ingrese su telefono</string>
+    <string name="error_edad">Ingrese su edad</string>
+    <string name="bienvenida">Bienvenido</string>
+</resources>
